@@ -1,0 +1,6 @@
+[submodule "projects/Text-mining"]
+	path = projects/Text-mining
+	url = https://github.com/MUIA/Text-mining
+[submodule "projects/Cities"]
+	path = projects/Cities
+	url = https://github.com/MUIA/Cities
